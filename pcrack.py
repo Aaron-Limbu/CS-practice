@@ -15,4 +15,4 @@ input_hash=input("Enter hash to crack: ")
 wordlist = "wordlists.txt"
 crackpass(input_hash,wordlist)
 
-#update on code
+#update on this code from below
