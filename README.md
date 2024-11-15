@@ -1,1 +1,1 @@
-my practice codes throught tutorials and websites 
+my practice codes through tutorials and websites 
