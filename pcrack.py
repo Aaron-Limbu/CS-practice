@@ -1,4 +1,5 @@
 import hashlib
+import pyfiglet 
 
 HASH_FUNCTIONS = {
     "md5": hashlib.md5,
@@ -61,4 +62,5 @@ def main():
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
+    print(pyfiglet.figlet_format("P C R A C K",font="colossal"))
     main()
